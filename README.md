@@ -1,2 +1,2 @@
 # Python_practice_1
-This one is my first tyme using python.
+This programm asks user to enter his/her name and age, then it counts a year when this person turns hundred years old.
